@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Stewart McGown',
-  domain: 'blog.mcgown.dev',
+  domain: 'mcgown.dev',
   author: 'Stewart McGown',
 
   // open graph metadata (optional)
